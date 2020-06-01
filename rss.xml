@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://insureintell.github.io/">
+  <channel>
+    <title>Insureintell.com</title>
+    <link>https://insureintell.github.io/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Webinar Recording: Fair vs Unfair Discrimination in Underwriting</title>
+  <link>https://insureintell.github.io/article/webinar-recording-fair-vs-unfair-discrimination-underwriting</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Webinar Recording: Fair vs Unfair Discrimination in Underwriting&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://insureintell.github.io/user/6" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;hankgeorge&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-06-25T14:41:12+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 06/25/2019&lt;/span&gt;
+</description>
+  <pubDate>Tue, 25 Jun 2019 14:41:12 +0000</pubDate>
+    <dc:creator>hankgeorge</dc:creator>
+    <guid isPermaLink="false">26182 at https://insureintell.github.io</guid>
+    </item>
+<item>
+  <title>Red Flags in Opioid Use Underwriting (Slides)</title>
+  <link>https://insureintell.github.io/article/red-flags-opioid-use-underwriting-slides</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Red Flags in Opioid Use Underwriting (Slides)&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://insureintell.github.io/user/6" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;hankgeorge&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-04-24T00:42:40+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 04/24/2019&lt;/span&gt;
+</description>
+  <pubDate>Wed, 24 Apr 2019 00:42:40 +0000</pubDate>
+    <dc:creator>hankgeorge</dc:creator>
+    <guid isPermaLink="false">26150 at https://insureintell.github.io</guid>
+    </item>
+<item>
+  <title>Underwriting Opioid Use and Abuse (Slides)</title>
+  <link>https://insureintell.github.io/article/underwriting-opioid-use-and-abuse-slides</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Underwriting Opioid Use and Abuse (Slides)&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://insureintell.github.io/user/6" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;hankgeorge&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-01-08T19:26:35+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 01/08/2019&lt;/span&gt;
+</description>
+  <pubDate>Tue, 08 Jan 2019 19:26:35 +0000</pubDate>
+    <dc:creator>hankgeorge</dc:creator>
+    <guid isPermaLink="false">26119 at https://insureintell.github.io</guid>
+    </item>
+
+  </channel>
+</rss>
