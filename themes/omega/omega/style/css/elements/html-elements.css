@@ -1,0 +1,240 @@
+
+/* Fonts */
+/* Apply a natural box layout model to all elements http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+/* line 4, ../../scss/elements/html-elements.scss */
+
+
+.image-style-feature-landscape {
+margin-left:-11%;
+  margin-top:-4%;
+ 
+}
+
+.image-style-feature-portrait {
+margin-left:-11%;
+  margin-top:-4%;
+}
+
+.image-style-lands {
+margin-left:-11%;
+ margin-top:-4%;
+}
+
+.image-style-portrait {
+margin-left:-11%;
+  margin-top:-4%;
+}
+
+
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; 
+ }
+
+#block-searchblock{
+
+  text-align:center;
+
+}
+
+
+
+
+/* line 14, ../../scss/elements/html-elements.scss */
+body {
+  font-family: "Helvetica Neue", Arial, Helvetica;
+   max-width: 100%;
+  -webkit-text-size-adjust: none;
+font-size: 16px;
+
+  }
+
+a.svg {
+  position: relative;
+  display: inline-block;
+  margin-bottom:-30px;
+}
+
+svg {
+  margin-bottom:-30px;
+}
+
+
+/* line 21, ../../scss/elements/html-elements.scss */
+body.toolbar-tray-open.toolbar-vertical.toolbar-fixed {
+  margin-left: 0;
+  padding-left: 15rem; }
+
+p{
+letter-spacing: 0.01em;
+line-height:160%;
+font-size: 14px;
+
+}
+
+li {
+letter-spacing: 0.01em;
+line-height:150%;
+font-size: 16px;
+padding-bottom:5px;
+
+}
+
+.main-layout p{
+letter-spacing: 0.01em;
+line-height:160%;
+font-size: 16px;
+
+}
+.new-slogan {
+font-size: 2vw;
+ color: #777;
+    font-variant: small-caps; 
+   
+    }
+
+
+	.site-name {
+	font-size: 2vw;
+	 color: #777;
+	    font-variant: small-caps; 
+   
+	    }
+
+
+.region--postscript-first  div{
+margin-right:0.2vw;
+
+
+} 
+
+.region--postscript-second  div{
+
+margin-right:0.1vw;
+} 
+
+.region--content  div{
+
+} 
+
+.postscript-layout p{
+letter-spacing: 0.01em;
+line-height:150%;
+font-size: 14px;
+}
+
+.postscript-layout li{
+letter-spacing: 0.01em;
+line-height:150%;
+font-size: 14px;
+
+}
+
+h1 {
+line-height:120%;
+font-size:2.5em;
+}
+
+h2 {
+line-height:120%;
+font-size: 20px;
+}
+
+h3 {
+line-height:120%;
+font-size: 20px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+}
+
+
+h4 {
+
+
+}
+
+h5 {
+line-height:120%;
+font-size: 11px;
+
+}
+
+
+
+h2 a {
+  text-decoration: none;
+  color: black;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out; }
+  /* line 30, ../../scss/elements/html-elements.scss */
+  h2 a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+
+h3 a {
+  text-decoration: none;
+font-size:16px; 
+ color: black;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out; }
+  /* line 30, ../../scss/elements/html-elements.scss */
+  h1 a:hover {
+    text-decoration: underline;
+    color: black;}
+
+h3 a {
+  text-decoration: none;
+font-size:16px; 
+ color: #047aab;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out; }
+  /* line 30, ../../scss/elements/html-elements.scss */
+  h1 a:hover {
+    text-decoration: underline;
+   color: rgba(4, 122, 171, 0.85);
+}
+
+
+.caption figcaption{
+letter-spacing: 0.01em;
+line-height:120%;
+font-size: 9px;
+margin-left:-11%;
+
+}
+
+
+
+/* line 26, ../../scss/elements/html-elements.scss */
+a {
+  text-decoration: none;
+  color: #216778;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out; }
+  /* line 30, ../../scss/elements/html-elements.scss */
+  a:hover {
+    text-decoration: underline;
+    color: #216778;
+}
+/* line 37, ../../scss/elements/html-elements.scss */
+details {
+  border: none; }
+
+/* line 41, ../../scss/elements/html-elements.scss */
+img {
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+
+   }
+
